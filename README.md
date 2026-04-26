@@ -1,0 +1,1 @@
+Welcome to my professional portfolio. This repository documents the technical tasks and data analysis projects completed during my Data Science Internship at Prodigy InfoTech. Each task focuses on a different aspect of the data science lifecycle, from visualization to complex exploratory data analysis.
