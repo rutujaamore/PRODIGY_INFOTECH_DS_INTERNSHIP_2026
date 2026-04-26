@@ -1,15 +1,24 @@
-Task-01: Population Data Visualization
-Description
-This project focuses on visualizing population data from the World Bank. The goal is to analyze the distribution of population across countries and regions for the year 2022 using various chart types.
+Task-01: Global Population Trends Visualization
+Objective: Create a comprehensive visualization suite to analyze the distribution of a categorical or continuous variable using the World Bank Population dataset.
 
-Dataset
-The dataset used is the World Bank Population Data, which contains total population counts for countries and regions from 1960 to 2024.
+Project Overview
 
-Visualizations
-1. Top 10 Most Populous Countries (Bar Chart)
-2. Global Population Distribution (Histogram)
-3. Regional Population Share (Pie Chart)
-Technologies Used
-Python: Core programming language.
-Pandas: For data cleaning and manipulation.
-Matplotlib/Seaborn: For creating high-quality visualizations.
+In this task, I performed an in-depth analysis of global population data (1960–2024). The goal was to transform raw demographic numbers into meaningful insights about how the world's population is distributed across different nations and geographical regions.
+
+Key Features
+
+Data Aggregation: Filtered and cleaned World Bank CSV data to focus on the most recent complete year (2022).
+
+Top 10 Analysis: Created a horizontal bar chart to identify the world's most populous nations, providing a clear comparison of scale.
+
+Distribution Modeling: Developed a histogram with an overlaid Kernel Density Estimate (KDE) to visualize the frequency distribution of population sizes.
+
+Regional Proportions: Designed a professional "Donut" pie chart to illustrate the percentage share of the total world population held by major regions (e.g., South Asia, Europe, Sub-Saharan Africa).
+
+Visualizations Included -
+
+Bar Chart: Comparison of the top 10 countries.
+
+Histogram: Population frequency distribution.
+
+Donut Chart: Regional population distribution by percentage.
